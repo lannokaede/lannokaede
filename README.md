@@ -3,10 +3,6 @@
   <img src="assets/profile-light.svg" alt="lannokaede — 桌面交互与嵌入式控制" width="960">
 </picture>
 
-# 你好，我是 lannokaede
-
-我喜欢把清晰的交互设计和可靠的工程实现放在一起。最近在做桌面客户端体验与嵌入式运动控制。
-
 ## 01 / CONTRIBUTIONS · 贡献记录
 
 <picture>
