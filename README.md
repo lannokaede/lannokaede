@@ -18,8 +18,4 @@
 **[codex-theme-endfield →](https://github.com/lannokaede/codex-theme-endfield)**<br>
 ChatGPT Windows 客户端的视觉增强层，以纸墨、工程图形和信号色组织交互。
 
-`02 / EMBEDDED SYSTEMS`<br>
-**[ESP32-MicroROS-Racer →](https://github.com/lannokaede/ESP32-MicroROS-Racer)**<br>
-基于 ESP32-S3 的智能小车控制项目，探索 FreeRTOS 任务调度、传感器读取与运动控制。
-
-<sub>DESKTOP SYSTEMS / EMBEDDED MOTION · <a href="https://github.com/lannokaede?tab=repositories">所有仓库 →</a></sub>
+<sub><a href="https://github.com/lannokaede?tab=repositories">所有仓库 →</a></sub>
