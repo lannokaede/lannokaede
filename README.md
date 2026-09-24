@@ -5,12 +5,14 @@
 
 ## 01 / CONTRIBUTIONS · 贡献记录
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/14D0D0/lannokaede">
-  <img src="https://ghchart.rshah.org/087F87/lannokaede" alt="lannokaede 近一年的 GitHub 贡献日历">
-</picture>
-
-[查看 GitHub 原生贡献记录](https://github.com/lannokaede?tab=overview)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/14D0D0/lannokaede">
+    <img src="https://ghchart.rshah.org/087F87/lannokaede" alt="lannokaede 近一年的 GitHub 贡献日历" width="960">
+  </picture>
+  <br>
+  <a href="https://github.com/lannokaede?tab=overview">查看 GitHub 原生贡献记录 →</a>
+</p>
 
 ## 02 / SELECTED WORK · 代表项目
 
